@@ -10,4 +10,4 @@ Photo dump for Orbit's changelog
   - copy image address 
   - paste the image address into markdown file </br>
    ``` Example:  ![Orbit walkthrough!](https://github.com/legendkong/Orbit-changelog-photo-dump/blob/main/changelog/14-07-22/changeLogBtn.png?raw=true) ```
-  - glhf
+4. glhf
