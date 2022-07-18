@@ -3,7 +3,7 @@ Photo dump for Orbit's changelog
 
 ### For Orbit's devs who are dumping photos into the Changelog for a specific date/release. ###
 
-1. Create a folder titled <dd-mm-yy> in /Changelog
+1. Create a folder titled 'dd-mm-yy' in /Changelog
 2. Dump images/gifs inside!
 3. To use the image/gif in local markdown file,
   - right click image you want to use(in the github repo)
